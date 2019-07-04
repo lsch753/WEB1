@@ -2,11 +2,11 @@
 
 [네이버](https://www.naver.com)
 
-[네이버 웹툰](https://www.comics.naver.com)
+[네이버 웹툰](https://comic.naver.com/index.nhn)
 
 ## 다음
 
-[다음 웹툰](https://www.webtoon.daum.net)
+[다음 웹툰](http://webtoon.daum.net/)
 
 
 ## 트위치
