@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 네이버
 
-You can use the [editor on GitHub](https://github.com/lsch753/WEB1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[네이버](www.naver.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[네이버 웹툰](www.comics.naver.com)
 
-### Markdown
+## 다음
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[다음 웹툰](www.webtoon.daum.net)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 트위치
 
-- Bulleted
-- List
+[트위치](https://www.twitch.tv/)
 
-1. Numbered
-2. List
+### 트게더
 
-**Bold** and _Italic_ and `Code` text
+[잉게더](https://tgd.gd.kr/nanajam777)
 
-[Link](url) and ![Image](src)
-```
+[핫클립](https://tgd.kr/clips)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 유튜브
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lsch753/WEB1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[유튜브](www.youtube.com)
