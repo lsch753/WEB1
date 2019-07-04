@@ -1,12 +1,12 @@
 ## 네이버
 
-[네이버](www.naver.com)
+[네이버](https://www.naver.com)
 
-[네이버 웹툰](www.comics.naver.com)
+[네이버 웹툰](https://www.comics.naver.com)
 
 ## 다음
 
-[다음 웹툰](www.webtoon.daum.net)
+[다음 웹툰](https://www.webtoon.daum.net)
 
 
 ## 트위치
@@ -21,4 +21,4 @@
 
 ## 유튜브
 
-[유튜브](www.youtube.com)
+[유튜브](https://www.youtube.com)
